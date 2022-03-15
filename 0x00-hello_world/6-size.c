@@ -1,8 +1,6 @@
 #include <stdio.h>
 /**
-*
 *main - Enter command
-*
 *Return: 0
 */
 int main(void)
